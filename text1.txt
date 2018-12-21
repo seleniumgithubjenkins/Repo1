@@ -1,8 +1,5 @@
+change 1
 
 
 
 
-
-git status
-exit
-exit
